@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/f4ULouRS/QodFHT7YpZ+5GXKjMkwzOVCVyrbXG9s6cFRmPI7z1DIYOdvrH0ay5Tgbgf0oLAV8HNtTo7sJmZYw==",
+  "success": true,
+  "projectFilePath": "C:\\TFS\\AutoGlass\\AutoGlass.Domain\\AutoGlass.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\webert.cancado\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\webert.cancado\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

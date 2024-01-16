@@ -1,0 +1,15 @@
+C:\TFS\AutoGlass\AutoGlass.Application\bin\Debug\net6.0\AutoGlass.Application.deps.json
+C:\TFS\AutoGlass\AutoGlass.Application\bin\Debug\net6.0\AutoGlass.Application.dll
+C:\TFS\AutoGlass\AutoGlass.Application\bin\Debug\net6.0\AutoGlass.Application.pdb
+C:\TFS\AutoGlass\AutoGlass.Application\bin\Debug\net6.0\AutoGlass.Domain.dll
+C:\TFS\AutoGlass\AutoGlass.Application\bin\Debug\net6.0\AutoGlass.Domain.pdb
+C:\TFS\AutoGlass\AutoGlass.Application\obj\Debug\net6.0\AutoGlass.Application.csproj.AssemblyReference.cache
+C:\TFS\AutoGlass\AutoGlass.Application\obj\Debug\net6.0\AutoGlass.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\AutoGlass\AutoGlass.Application\obj\Debug\net6.0\AutoGlass.Application.AssemblyInfoInputs.cache
+C:\TFS\AutoGlass\AutoGlass.Application\obj\Debug\net6.0\AutoGlass.Application.AssemblyInfo.cs
+C:\TFS\AutoGlass\AutoGlass.Application\obj\Debug\net6.0\AutoGlass.Application.csproj.CoreCompileInputs.cache
+C:\TFS\AutoGlass\AutoGlass.Application\obj\Debug\net6.0\AutoGlass.Application.csproj.CopyComplete
+C:\TFS\AutoGlass\AutoGlass.Application\obj\Debug\net6.0\AutoGlass.Application.dll
+C:\TFS\AutoGlass\AutoGlass.Application\obj\Debug\net6.0\refint\AutoGlass.Application.dll
+C:\TFS\AutoGlass\AutoGlass.Application\obj\Debug\net6.0\AutoGlass.Application.pdb
+C:\TFS\AutoGlass\AutoGlass.Application\obj\Debug\net6.0\ref\AutoGlass.Application.dll

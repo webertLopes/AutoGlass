@@ -1,0 +1,17 @@
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\bin\Debug\net5.0\AutoGlass.Infrastructure.deps.json
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\bin\Debug\net5.0\AutoGlass.Infrastructure.dll
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\bin\Debug\net5.0\AutoGlass.Infrastructure.pdb
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\bin\Debug\net5.0\AutoGlass.Application.dll
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\bin\Debug\net5.0\AutoGlass.Domain.dll
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\bin\Debug\net5.0\AutoGlass.Application.pdb
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\bin\Debug\net5.0\AutoGlass.Domain.pdb
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\obj\Debug\net5.0\AutoGlass.Infrastructure.csproj.AssemblyReference.cache
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\obj\Debug\net5.0\AutoGlass.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\obj\Debug\net5.0\AutoGlass.Infrastructure.AssemblyInfoInputs.cache
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\obj\Debug\net5.0\AutoGlass.Infrastructure.AssemblyInfo.cs
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\obj\Debug\net5.0\AutoGlass.Infrastructure.csproj.CoreCompileInputs.cache
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\obj\Debug\net5.0\AutoGlass.Infrastructure.csproj.CopyComplete
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\obj\Debug\net5.0\AutoGlass.Infrastructure.dll
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\obj\Debug\net5.0\refint\AutoGlass.Infrastructure.dll
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\obj\Debug\net5.0\AutoGlass.Infrastructure.pdb
+C:\TFS\AutoGlass\AutoGlass.Infrastructure\obj\Debug\net5.0\ref\AutoGlass.Infrastructure.dll

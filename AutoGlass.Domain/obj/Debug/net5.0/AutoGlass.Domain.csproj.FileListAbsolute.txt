@@ -1,0 +1,12 @@
+C:\TFS\AutoGlass\AutoGlass.Domain\bin\Debug\net5.0\AutoGlass.Domain.deps.json
+C:\TFS\AutoGlass\AutoGlass.Domain\bin\Debug\net5.0\AutoGlass.Domain.dll
+C:\TFS\AutoGlass\AutoGlass.Domain\bin\Debug\net5.0\AutoGlass.Domain.pdb
+C:\TFS\AutoGlass\AutoGlass.Domain\obj\Debug\net5.0\AutoGlass.Domain.csproj.AssemblyReference.cache
+C:\TFS\AutoGlass\AutoGlass.Domain\obj\Debug\net5.0\AutoGlass.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\AutoGlass\AutoGlass.Domain\obj\Debug\net5.0\AutoGlass.Domain.AssemblyInfoInputs.cache
+C:\TFS\AutoGlass\AutoGlass.Domain\obj\Debug\net5.0\AutoGlass.Domain.AssemblyInfo.cs
+C:\TFS\AutoGlass\AutoGlass.Domain\obj\Debug\net5.0\AutoGlass.Domain.csproj.CoreCompileInputs.cache
+C:\TFS\AutoGlass\AutoGlass.Domain\obj\Debug\net5.0\AutoGlass.Domain.dll
+C:\TFS\AutoGlass\AutoGlass.Domain\obj\Debug\net5.0\refint\AutoGlass.Domain.dll
+C:\TFS\AutoGlass\AutoGlass.Domain\obj\Debug\net5.0\AutoGlass.Domain.pdb
+C:\TFS\AutoGlass\AutoGlass.Domain\obj\Debug\net5.0\ref\AutoGlass.Domain.dll
